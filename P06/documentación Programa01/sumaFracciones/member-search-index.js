@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"poo.grp10.operacionesmatematicas","c":"SumaFracciones","l":"sumaDosFracciones(int, int, int, int)","u":"sumaDosFracciones(int,int,int,int)"},{"p":"poo.grp10.operacionesmatematicas","c":"SumaFracciones","l":"SumaFracciones()","u":"%3Cinit%3E()"}];updateSearchResults();
